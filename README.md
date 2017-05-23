@@ -10,7 +10,7 @@
   * apt-get install gstreamer0.10-ffmpeg
 
 note : if for some reason you cant instal the ffmpeg you can do the following :
-  1. add this line in /etc/apt/sources.list
+  1. add this line in /etc/apt/sources.list :
       deb http://www.deb-multimedia.org jessie main non-free
   2. apt-get update
   3. then you will need key of this repo :
