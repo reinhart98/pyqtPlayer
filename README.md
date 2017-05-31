@@ -1,7 +1,7 @@
 # pyqtPlayer
 -for Qtmultimedia package lost from pyqt5 you can install :
   1. python3-pyqt5.qtmultimedia
-  2. libqt5multimedia-plugins
+  2. libqt5multimedia5-plugins
 
 -for gstreamer error you can install :
   * apt-get install libgstreamer0.10-dev libgstreamer-plugins-base0.10-dev gstreamer-tools gstreamer0.10-plugins-good gstreamer0.10-plugins-bad
